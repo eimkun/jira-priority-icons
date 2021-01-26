@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="429px" height="429px" viewBox="0 0 429 429" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Concepts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Priorities" transform="translate(-1622.000000, -1440.000000)">
+            <g id="Group" transform="translate(1614.000000, 1432.000000)">
+                <path d="M236.642136,14.1421356 L430.857864,208.357864 C438.66835,216.16835 438.66835,228.83165 430.857864,236.642136 L236.642136,430.857864 C228.83165,438.66835 216.16835,438.66835 208.357864,430.857864 L14.1421356,236.642136 C6.33164979,228.83165 6.33164979,216.16835 14.1421356,208.357864 L208.357864,14.1421356 C216.16835,6.33164979 228.83165,6.33164979 236.642136,14.1421356 Z" id="Polygon" fill="#CA1818"></path>
+                <text id="!" font-family="Georgia" font-size="400" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="156" y="367">!</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
