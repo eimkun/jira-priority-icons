@@ -16,27 +16,8 @@ Paste the copied URL into the Icon URL field.
 Click the Update button.
 
 Old:
-![image] (https://github.com/eimkun/jira-priority-icons/blob/main/old.png)
+![ScreenShot](https://github.com/eimkun/jira-priority-icons/blob/main/old.png)
 
 New JIRA Prioirty icons:
-![image] (https://github.com/eimkun/jira-priority-icons/blob/main/new.png)
+![ScreenShot](https://github.com/eimkun/jira-priority-icons/blob/main/new.png)
 
-Blocker: 
-
-Critical: 
-
-Major: 
-
-Highest: 
-
-High: 
-
-Medium: 
-
-Low: 
-
-Lowest: 
-
-Minor: 
-
-Trivial:
