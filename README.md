@@ -7,7 +7,7 @@ Atlassian provides a good reference on how to add custom priority icons.
 
 https://confluence.atlassian.com/jirakb/how-to-upload-custom-priority-icons-in-jira-788961156.html
 
-Solution
+# Solution
 Upload your custom icon as an attachment to any Jira Issue and right click on the image and copy the image URL.
 
 Click Jira Settings > Issues > Priorities
@@ -15,9 +15,11 @@ Click the 'Edit' link next to the desired priority.
 Paste the copied URL into the Icon URL field.
 Click the Update button.
 
+Old:
+https://github.com/eimkun/jira-priority-icons/blob/main/old.png
+
 New JIRA Prioirty icons:
-
-
+https://github.com/eimkun/jira-priority-icons/blob/main/new.png
 
 Blocker: 
 
